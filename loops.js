@@ -20,7 +20,7 @@ function doWhileLoop(num){
             i++;
             return i;
         }
-        do{
+        do {
           console.log('I run once regardless.');
         } 
         while (incrementVariable() < array.length);
